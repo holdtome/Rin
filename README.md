@@ -13,7 +13,8 @@ Windows 上的默认程序管理工具。改文件关联、改协议关联、把
 
 ## 下载
 
-去 [Releases](https://github.com/holdtome/Rin/releases) 下载压缩包，解压后双击 `Rin.exe` 直接用。免安装，不需要管理员权限。
+去 [Releases](https://github.com/holdtome/Rin/releases) 下载压缩包。
+⚠️ 重要说明：Rin 程序源码不对外开源。项目依赖第三方开源组件，受其开源许可证约束，**无法随安装包 / 压缩包一同集成分发**，请自行前往该开源组件的发布页下载对应文件，放置到指定目录后运行 `Rin.exe`。
 
 ## 运行环境
 
@@ -23,8 +24,8 @@ Windows 10 / 11。
 
 **本项目不开源。** 仓库只发布编译好的程序和更新说明，不提供源代码。
 
-修改注册表的部分基于 （DanysysTeam/SFTA)（MIT 许可），  
-版权与许可全文随程序一起分发，在解压后的 `bridge/LICENSE-SFTA.md`。
+修改注册表的部分基于。
+版权与许可全文随程序一起分发。
 
 ## 注意
 
